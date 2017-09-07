@@ -5,5 +5,5 @@ Public projects i'm working on
 
 Frameworks and Libraries
 - [FluentGuard](https://github.com/BoasE/FluentGuard)
-- BE.CQRS
+- [BE.CQRS](https://github.com/BoasE/BE.CQRS) Migration in progress...
 - IdentityServer.MongoDb
