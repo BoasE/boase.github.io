@@ -4,6 +4,6 @@ Public projects i'm working on
 - [Groupl.de](https://www.groupl.de)
 
 Frameworks and Libraries
-- GuardFlow
+- [FluentGuard](https://github.com/BoasE/FluentGuard)
 - BE.CQRS
 - IdentityServer.MongoDb
