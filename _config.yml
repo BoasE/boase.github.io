@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
 title: Boas Enkler
 description: CTO, Development Enthusiast
-site.github.repository_url: https://github.com/BoasE/FluentGuard
+github:
+  repository_url: "https://github.com/BoasE/BE.CQRS"
